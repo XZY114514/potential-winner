@@ -24,4 +24,4 @@
 [v6.0以及今后的其他版本](https://www.luogu.com.cn/paste/cvcfpw69)
 
 ---------------------------
-作者：[xxx听取AC声一片](https://www.luogu.com.cn/user/252401)
+主要作者：[xxx听取AC声一片](https://www.luogu.com.cn/user/252401)
