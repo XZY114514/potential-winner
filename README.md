@@ -22,5 +22,6 @@
 [v5.0](https://www.luogu.com.cn/paste/6gnhgtx5)
 
 [v6.0以及今后的其他版本](https://www.luogu.com.cn/paste/cvcfpw69)
+
 ---------------------------
 作者：[xxx听取AC声一片](https://www.luogu.com.cn/user/252401)
